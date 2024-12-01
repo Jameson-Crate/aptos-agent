@@ -51,7 +51,7 @@ def get_account_info(context_variables):
 
 portfolio_agent = Agent(
     name="Portfolio Agent",
-    instructions="""You are a portfolio agent that provides information and analysis on portfolios.
+    instructions="""You are a portfolio agent that provides information and analysis on APTOS portfolios.
     
     To get started, you can get the address from the user with the appropriate tool. You can then
     then account information in order to successfully answer questions about the relevant portfolio.
