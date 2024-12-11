@@ -39,6 +39,10 @@ Once running you can ask the routing agent questions and it will route you to th
 
 Viedo Demo
 
+<video width="320" height="240" controls>
+  <source src="aptos-agent-demo.mp4" type="video/mp4">
+</video>
+
 
 ## Authors
 
